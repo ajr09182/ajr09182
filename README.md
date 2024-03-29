@@ -1,2 +1,1 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ajr09182=&theme=gotham&hide_border=true&border_radius=25&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ajr09182)](https://github.com/anuraghazra/github-readme-stats)
